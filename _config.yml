@@ -3,7 +3,8 @@
 title: "Darko Hojnik"
 description: "Website from Darko Hojnik"
 show_downloads: false
-remote_theme: pages-themes/minimal@v0.2.0
+# remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
