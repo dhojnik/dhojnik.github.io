@@ -1,5 +1,5 @@
 ---
-name: "homepage"
+# name: "homepage"
 title: "Darko Hojnik"
 description: "Website from Darko Hojnik"
 remote_theme: pages-themes/minimal@v0.2.0
